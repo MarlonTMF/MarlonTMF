@@ -6,10 +6,10 @@ Bienvenido a mi rincón de GitHub. Aquí es donde documentaré mi viaje de apren
 
 ##  Sobre Mí
 
-- 🔭 Actualmente estoy estudiando desarrollo blockchain y contratos inteligentes con Solidity.
-- 🌱 Me interesa mucho la **seguridad en blockchain** y las **finanzas descentralizadas (DeFi)**.
-- 🎯 Mi meta es trabajar en un protocolo DeFi o una DAO, contribuyendo a la nueva economía digital.
-- 📫 Cómo contactarme: marlonsofd.531@gmail.com
+-  Actualmente estoy estudiando desarrollo blockchain y contratos inteligentes con Solidity.
+-  Me interesa mucho la **seguridad en blockchain** y las **finanzas descentralizadas (DeFi)**.
+-  Mi meta es trabajar en un protocolo DeFi o una DAO, contribuyendo a la nueva economía digital.
+-  Cómo contactarme: marlonsofd.531@gmail.com
 
 ##  Habilidades Técnicas (En Proceso)
 

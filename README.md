@@ -1,21 +1,27 @@
-# ¡Hola! 👋 Soy Marlon Marzo
+# ¡Hola!  Soy Marlon Marzo
 
-### Desarrollador en Formación | Futuro Ingeniero Web3
+### Estudiante de Ingeniería de Sistemas | Cybersecurity & QA Engineer | Fullstack Developer
 
-Bienvenido a mi rincón de GitHub. Aquí es donde documentaré mi viaje de aprendizaje y mis proyectos en el ecosistema de Ethereum y Web3.
+Bienvenido a mi rincón de GitHub. Soy un apasionado por la construcción de software seguro y de alta calidad, enfocado en el ciclo de vida completo del desarrollo (SDLC) y la automatización de procesos.
 
 ##  Sobre Mí
 
--  Actualmente estoy estudiando desarrollo blockchain y contratos inteligentes con Solidity.
--  Me interesa mucho la **seguridad en blockchain** y las **finanzas descentralizadas (DeFi)**.
--  Mi meta es trabajar en un protocolo DeFi o una DAO, contribuyendo a la nueva economía digital.
--  Cómo contactarme: marlonsofd.531@gmail.com
+- **Educación:** Estudiante de 8vo semestre de Ingeniería de Sistemas.
+- **Enfoque:** Especializado en **Ciberseguridad** (Pentesting y Auditoría ISO 29002/OWASP) y **QA Automation**.
+- **Experiencia:** Desarrollo Fullstack con Angular y NestJS, liderando equipos bajo metodologías **SCRUM**.
+- **Contacto:** [marlonsofd.531@gmail.com](mailto:marlonsofd.531@gmail.com)
 
-##  Habilidades Técnicas (En Proceso)
+## 🛠️ Habilidades Técnicas
 
-- Lenguajes: JavaScript, Solidity (aprendiendo)
-- Herramientas: Git, GitHub, Remix IDE
-- Conceptos: Blockchain, Smart Contracts, Multi-Signature Wallets
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | `Python` `TypeScript` `C++` `Java` `Ruby` |
+| **Web & Frameworks** | `Angular` `NestJS` `HTML5` `CSS3` |
+| **Cybersecurity** | `Pentesting` `OWASP Top 10` `Auditoría ISO 29002` |
+| **QA & DevOps** | `SonarQube` `Cucumber` `Gherkin` `TestLink` `Git` |
 
 ---
-*"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."*
+
+> *"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."*
+
+---

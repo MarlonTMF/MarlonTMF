@@ -1,6 +1,6 @@
 # ¡Hola!  Soy Marlon Marzo
 
-### Estudiante de Ingeniería de Sistemas | Cybersecurity & QA Engineer | Fullstack Developer
+### Estudiante de Ingeniería de Sistemas | Cybersecurity & QA Engineer | Backend Developer
 
 Bienvenido a mi rincón de GitHub. Soy un apasionado por la construcción de software seguro y de alta calidad, enfocado en el ciclo de vida completo del desarrollo (SDLC) y la automatización de procesos.
 
